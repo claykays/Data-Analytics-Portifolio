@@ -1,7 +1,7 @@
 
 - 👀 I’m passionate about Data and Data Analytics
 - 🌱 I’m currently learning Tableau and R as part of the Google data analytics course
-- 💞️ I’m looking to collaborate on any topic that helps me advance my analytical skills(Pyton,R,Tableau) 
+- 💞️ I’m looking to collaborate on any topic that helps me advance my analytical skills(Python,R,Tableau) 
 - 📫 Open to work on Analytics projects
 
 <!---
