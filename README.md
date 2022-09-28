@@ -2,7 +2,7 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 
 👀 I’m passionate about Data and Data Analytics
 🌱 I’m currently learning  R as part of the Google data analytics course 
-📫 Open to work on Analytics projects which utilise my analytical skills
+📫 Open to work on Analytics projects which utilise my skills
 
 
 <!---
