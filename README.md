@@ -4,7 +4,7 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 🌱 I’m currently learning  R as part of the Google data analytics course 
 📫 Open to work on Analytics projects which utilise my skills
 
-# Project1: [Chocolates Sales Analytics Using Excel](https://github.com/claykays/Chocolate-Sales-Analytics)
+# Project1: [Chocolates Sales Data Analysis ](https://github.com/claykays/Chocolate-Sales-Analytics)
 
 The goal of this project was carrying out an An analysis of sales data (Copy downloaded from Chandoo chocolates data set) and determine the following:
 
