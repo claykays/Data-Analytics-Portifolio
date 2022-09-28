@@ -6,7 +6,7 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 
 # Project1: [Chocolates Sales Analytics Using Excel](https://github.com/claykays/Data-Analytics)
 
-The goal of this project was carrying out an An analysis of sales data (Copy downloaded from Chandoo chocolates data set) and determine thr following:
+The goal of this project was carrying out an An analysis of sales data (Copy downloaded from Chandoo chocolates data set) and determine the following:
 
 1)	Which products to discontinue based on sales volumes and profit/loss?
 2)	Analyse Sales by country to determine best salesperson,most profitable and loss making products	
