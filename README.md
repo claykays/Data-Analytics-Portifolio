@@ -5,7 +5,7 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 📫 Open to work on Analytics projects which utilise my skills
 
 
-# Project2: [Analysis Of World Happiness Rank ](https://github.com/claykays/World-Happines-Score)
+# Project1: [Analysis Of World Happiness Rank ](https://github.com/claykays/World-Happines-Score)
 
 The goal of this project was carrying out an An analysis of factors that affect the general happiness of people in the whole world (Google data Analytics Certificate Activity) and determine the following:
 
@@ -21,7 +21,13 @@ The goal of this project was carrying out an An analysis of sales data (Copy dow
 2)	Analyse Sales by country to determine best salesperson,most profitable and loss making products	
 3)	Report on any new patterns that emerge from the data and provide product recommendations		
 
+# Project3: [Analysis Of USA Crime Data ](https://github.com/claykays/Chocolate-Sales-Analytics)
 
+The goal of this project was carrying out an An Analysis Of USA Crime Data . The analysis data is of period (2014-1980) and determine the following:
+
+1)	Which States have the highest number of Perpetrators
+2)	Which states have the most victims	
+3)	which weapons were used in those crimes 
 	
 
 <!---
