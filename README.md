@@ -5,7 +5,7 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 📫 Open to work on Analytics projects which utilise my skills
 
 
-# Project2: [Analysis Of World Happiness Rank ](https://github.com/claykays/Chocolate-Sales-Analytics)
+# Project2: [Analysis Of World Happiness Rank ](https://github.com/claykays/World-Happines-Score)
 
 The goal of this project was carrying out an An analysis of factors that affect the general happiness of people in the whole world (Google data Analytics Certificate Activity) and determine the following:
 
