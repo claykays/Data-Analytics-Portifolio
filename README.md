@@ -4,7 +4,16 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 🌱 I’m currently learning  R as part of the Google data analytics course 
 📫 Open to work on Analytics projects which utilise my skills
 
-# Project1: [Chocolates Sales Data Analysis ](https://github.com/claykays/Chocolate-Sales-Analytics)
+
+# Project2: [Analysis Of World Happiness Rank ](https://github.com/claykays/Chocolate-Sales-Analytics)
+
+The goal of this project was carrying out an An analysis of factors that affect the general happiness of people in the whole world (Google data Analytics Certificate Activity) and determine the following:
+
+1)	How Economy ,Trust In Gorvenment ,Freedom  And Health affactes the overall happiness rank of a country.
+
+
+
+# Project2: [Chocolates Sales Data Analysis ](https://github.com/claykays/Chocolate-Sales-Analytics)
 
 The goal of this project was carrying out an An analysis of sales data (Copy downloaded from Chandoo chocolates data set) and determine the following:
 
@@ -13,7 +22,7 @@ The goal of this project was carrying out an An analysis of sales data (Copy dow
 3)	Report on any new patterns that emerge from the data and provide product recommendations		
 
 
-		
+	
 
 <!---
 claykays/claykays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
