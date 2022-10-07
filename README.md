@@ -30,7 +30,7 @@ The goal of this project was carrying out an An analysis of sales data (Copy dow
 
 The goal of this project was carrying out an An analysis of factors that affect the general happiness of people in the whole world (Google data Analytics Certificate Activity) and determine the following:
 
-1)	How Economy ,Trust In Gorvenment ,Freedom  And Health affactes the overall happiness rank of a country.
+1)	How Economy ,Trust In Gorvenment ,Freedom  And Health affectes the overall happiness rank of a country.
 
 
 
