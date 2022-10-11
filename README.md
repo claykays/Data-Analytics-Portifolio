@@ -5,7 +5,7 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 📫 Open to work on Analytics projects which utilise my skills
 
 
-#  [Data Analysis With R ](https://github.com/claykays/Chocolate-Sales-Analytics)
+#  [Data Analysis With R ](https://github.com/claykays/Data-Analysis-With-R)
 
 The goal of this project was carrying out an An Analysis Of sales Data using R  and produce visualisation using ggplot2 . 
 
