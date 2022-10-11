@@ -9,7 +9,7 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 
 The goal of this project was carrying out an An Analysis Of sales Data using R  and produce visualisation using ggplot2 . 
 
-#  [Analysis Of USA Crime Data ](https://github.com/claykays/Chocolate-Sales-Analytics)
+#  [Analysis Of Crime Data(Tableau) ](https://github.com/claykays/Chocolate-Sales-Analytics)
 
 The goal of this project was carrying out an An Analysis Of USA Crime Data . The analysis data is of period (2014-1980) and determine the following:
 
@@ -18,7 +18,7 @@ The goal of this project was carrying out an An Analysis Of USA Crime Data . The
 3)	which weapons were used in those crimes 
 
 
-#  [Chocolates Sales Data Analysis ](https://github.com/claykays/Chocolate-Sales-Analytics)
+#  [Chocolates Sales Data Analysis(Excel,Tableau)](https://github.com/claykays/Chocolate-Sales-Analytics)
 
 The goal of this project was carrying out an An analysis of sales data (Copy downloaded from Chandoo chocolates data set) and determine the following:
 
@@ -28,7 +28,7 @@ The goal of this project was carrying out an An analysis of sales data (Copy dow
 
 
 
-#  [Analysis Of World Happiness Rank ](https://github.com/claykays/World-Happines-Score)
+#  [Analysis Of World Happiness Rank(Tableau)](https://github.com/claykays/World-Happines-Score)
 
 The goal of this project was carrying out an An analysis of factors that affect the general happiness of people in the whole world (Google data Analytics Certificate Activity) and determine the following:
 
