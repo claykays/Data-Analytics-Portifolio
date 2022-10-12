@@ -9,6 +9,10 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 
 The goal of this project was carrying out an An Analysis Of sales Data using R  and produce visualisation using ggplot2 . 
 
+#  [Case Study: How Does a Bike-Share Navigate Speedy Success? ](https://github.com/claykays/Data-Analysis-With-R)
+
+This is Google Data Analyst Certificate Capstone Project of Cyclistic bike-share analysis case study, following Google recommended steps of data analysis process: ask, prepare, process, analyze, share and act .
+
 #  [Analysis Of Crime Data(Tableau) ](https://github.com/claykays/Chocolate-Sales-Analytics)
 
 The goal of this project was carrying out an An Analysis Of USA Crime Data . The analysis data is of period (2014-1980) and determine the following:
