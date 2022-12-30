@@ -12,7 +12,7 @@ The goal of this project was carrying out an An Analysis Of sales Data using R  
 
 This is Google Data Analyst Certificate Capstone Project of Cyclistic bike-share analysis case study, following Google recommended steps of data analysis process: ask, prepare, process, analyze, share and act .
 
-#  [Analysis Of Crime Data(Tableau) ](https://github.com/claykays/Chocolate-Sales-Analytics)
+#  [Analysis Of Crime Data(Tableau) ](https://github.com/claykays/An-Analysis-Of-USA-Crime-Data)
 
 The goal of this project was carrying out an An Analysis Of USA Crime Data . The analysis data is of period (2014-1980) and determine the following:
 
