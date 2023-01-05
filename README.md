@@ -8,6 +8,11 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 
 The goal of this project was carrying out an An Analysis Of sales Data using R  and produce visualisation using ggplot2 . 
 
+#  [Data Analysis Using SQL ](https://github.com/claykays/SQL-Examples)
+
+This is a collection of sql statements i wrote as part of the Udacity sql course execices using the Parch and Posey Database on PostgreSQL
+
+
 #  [Case Study: How Does a Bike-Share Navigate Speedy Success? ](https://github.com/claykays/CASE-STUDY-Capstone-Project)
 
 This is Google Data Analyst Certificate Capstone Project of Cyclistic bike-share analysis case study, following Google recommended steps of data analysis process: ask, prepare, process, analyze, share and act .
