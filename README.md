@@ -8,7 +8,7 @@ This is the portfolio that showcases my skills in data analytics and in the use 
 
 The goal of this project was carrying out an An Analysis Of sales Data using R  and produce visualisation using ggplot2 . 
 
-#  [Data Analysis With Python]([https://github.com/claykays/Data-Analysis-With-R](https://github.com/claykays/Analysis-of-Whatsapp-Group-Data)
+#  [Data Analysis With Python](https://github.com/claykays/Analysis-of-Whatsapp-Group-Data)
 
 The goal of this project was carrying out an An Analysis Of whatsapp group data using pandas, numpy  and produce visualisation matplotlib and wordcloud. The main focus was to dertermine the most used words to help find out the most talked about issues  and also determine who are the most active members 
 
